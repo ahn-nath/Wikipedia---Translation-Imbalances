@@ -1,3 +1,5 @@
+# general
 pip==21.3.1
-setuptools==65.5.1
-wheel==0.38.1
+
+# web scrapping
+selenium
